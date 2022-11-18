@@ -1,16 +1,25 @@
+ :root{
+    --primeira-cor: #F0F7EE;
+    --segunda-cor: #C4D7F2;
+
+    --borda: #AFDEDC;
+
+    --fundo: #91A8A4;
+    --texte: #776871;
+ }
 * {
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-color: rgb(62, 64, 66);
-    color: rgb(251, 251, 250);
+    background-color: var(--fundo)
+    color: var(--texte)
     font-size: 30px;
 }
 
 h1 {
-    color: rgb(144, 26, 26);
+    color: var(--primeira-cor)
 }
 
 .conteudo{
