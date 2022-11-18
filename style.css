@@ -1,11 +1,11 @@
  :root{
-    --primeira-cor: #F0F7EE;
-    --segunda-cor: #C4D7F2;
+    --primeira-cor: #F46036;
+    --segunda-cor: #2E294E;
 
-    --borda: #AFDEDC;
+    --borda: #1B998B;
 
-    --fundo: #91A8A4;
-    --texte: #776871;
+    --fundo: #E71D36;
+    --texte: #C5D86D;
  }
 * {
     margin: 0;
